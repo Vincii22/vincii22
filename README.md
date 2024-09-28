@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="err" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ6eXBxOGw2dTI3bDhsdzA0dGNyNG1wZG5jdGdyZWM4bTdlMXM5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufiJt5K7T5teGhW/giphy.gif"/>
+<iframe src="https://giphy.com/embed/26ufiJt5K7T5teGhW" align="right" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyberwar-26ufiJt5K7T5teGhW">via GIPHY</a></p>
 🔭 I’m currently working on - Php | Laravel Projects<br>👯 I’m looking to collaborate on - Web Dev Projects<br>🤝 I’m looking for help with - Looking for a F. Job<br>🌱 I’m currently learning - C++ GUI | APIs | Frameworks | Hosting<br>⚡ Fun fact - Procrastinator
 
 
