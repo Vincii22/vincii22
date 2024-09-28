@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on - Php | Laravel Projects<br>👯 I’m looking to collaborate on - Web Dev Projects<br>🤝 I’m looking for help with - Looking for a F. Job<br>🌱 I’m currently learning - C++ GUI | APIs | Frameworks | Hosting<br>⚡ Fun fact - Procrastinator 
-<img align="right" alt="err" width="400" height="200" src="https://i.pinimg.com/originals/d9/03/0a/d9030a5696d2507a1dfb38a686ac93c2.jpg"/>
+<img align="right" alt="err" width="200" height="200" src="https://i.pinimg.com/originals/d9/03/0a/d9030a5696d2507a1dfb38a686ac93c2.jpg"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://www.facebook.com/arvin.milan.71) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/vinxx.y/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/vin-milan-55288027a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@vinxxz.y?lang=en) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@https:/www.youtube.com/@vincii22) 
