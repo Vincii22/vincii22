@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on - Php | Laravel Projects<br>👯 I’m looking to collaborate on - Web Dev Projects<br>🤝 I’m looking for help with - Looking for a F. Job<br>🌱 I’m currently learning - C++ GUI | APIs | Frameworks | Hosting<br>⚡ Fun fact - Procrastinator
+
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on - Php | Laravel Projects<br>
+      👯 I’m looking to collaborate on - Web Dev Projects<br>
+      🤝 I’m looking for help with - Looking for a F. Job<br>
+      🌱 I’m currently learning - C++ GUI | APIs | Frameworks | Hosting<br>
+      ⚡ Fun fact - Procrastinator
+    </td>
+    <td>
+      <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
+        <iframe src="https://giphy.com/embed/26ufiJt5K7T5teGhW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+      </div>
+      <p><a href="https://giphy.com/gifs/cyberwar-26ufiJt5K7T5teGhW">via GIPHY</a></p>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
