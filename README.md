@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on - Php | Laravel Projects<br>👯 I’m looking to collaborate on - Web Dev Projects<br>🤝 I’m looking for help with - Looking for a F. Job<br>🌱 I’m currently learning - C++ GUI | APIs | Frameworks | Hosting<br>⚡ Fun fact - Procrastinator
-<iframe align="right" src="https://assets.pinterest.com/ext/embed.html?id=68747098874" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
+<img align="right" alt="err" width="400" src="https://i.pinimg.com/originals/d9/03/0a/d9030a5696d2507a1dfb38a686ac93c2.jpg"/>
 
 
 ## 🌐 Socials:
