@@ -1,9 +1,10 @@
 <!-- README: Developer-to-Data Engineer | Digital Alchemist Theme -->
 
 <p align="center">
-  <!-- 🌌 Replace with your custom banner once ready -->
-  <img src="https://via.placeholder.com/1024x300/121212/FFFFFF?text=Digital+Alchemist+%7C+Code+%2B+Data+%2B+Magic" alt="Digital Alchemist Banner" />
+  <img src="https://c4.wallpaperflare.com/wallpaper/1019/578/562/alchemy-wallpaper-preview.jpg" alt="Data Alchemist Banner" width="1024" />
 </p>
+
+<h1 align="center">Welcome, O Enlightened Fool</h1>
 
 <h1 align="center">🧪 Digital Alchemist in Training ⚗️</h1>
 <p align="center">
