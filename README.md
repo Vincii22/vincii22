@@ -1,19 +1,13 @@
 <!-- Banner -->
 <img 
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVvNnNkcXplb3VyZXZ3cWpkeHdwZDYxa3hla2VuanA3OTVkbnk3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oz5oYtQR0SFOg/giphy.gif" 
+  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kzYmRpZm5lMm85YjFlZ2g5YjNucnZvbXU1dHlmNnBraXd1eHh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9Z4eOVL0zlEwHT3Cc/giphy.gif" 
   alt="Digital Alchemist Banner" 
   width="100%" 
   height="350px"
   style="max-height: 350px; object-fit: cover; filter: brightness(60%);" 
 />
 
-<img 
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kzYmRpZm5lMm85YjFlZ2g5YjNucnZvbXU1dHlmNnBraXd1eHh2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9Z4eOVL0zlEwHT3Cc/giphy.gif" 
-  alt="Digital Alchemist Banner" 
-  width="30%" 
-  height="100px"
-  style="max-height: 350px; object-fit: cover; filter: brightness(60%);" 
-/>
+
 
 <!-- Neon Glow Welcome -->
 
@@ -22,8 +16,8 @@
 
 
 <p align="center" style="margin: 10px 0;">
-  <img src="https://media.giphy.com/media/26FPnsRwwW6Yct5xe/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndyMGE1dGUza2Q5Mm40YTRlczA0OTN1cXZsMnFyN2czYmI2dDVxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7NN7OD74jARmKcNlP/giphy.gif" alt="Potion Bubble" width="50" />
-  <img src="https://media.giphy.com/media/X0pY3JsBhXzQX2gs0I/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTQ3cWYxYmk0M3didzhicWZzZnZsMzQ4NDY0dXNjc21zemFjbWNwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXTesrJqX14Las8jIS/giphy.gif" alt="Glitch Spark" width="50" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ1cW9sdjhqdmsxMnp1ZWl3cWpmYno0YXo2ZHVtenhjbzNrZTBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X7NN7OD74jARmKcNlP/giphy.gif" alt="Potion Bubble" width="50" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTExcnJ0Z3ExOWNzbHA0b3hjdjdnMGFpcXJkbTU3bTNybmJkbXgxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HtfFneOxp0fx6nUvYn/giphy.gif" alt="Glitch Spark" width="50" />
 </p>
 
 
