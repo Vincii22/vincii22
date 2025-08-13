@@ -46,45 +46,47 @@ I love puzzles, logic, and transforming bits into meaning.
 <!-- Tech Stack & Learning Section -->
 <h2 align="center" style="color:#f9a825;">🛠️ Tech Stack & Current Learning</h2>
 
-<table width="100%">
-  <tr>
-    <!-- Languages & Backend -->
-    <td width="50%" valign="top">
-      <h3 align="left" style="color:#ffeb3b;">💻 Languages & Backend</h3>
-      <ul style="color:#cccccc;">
-        <li>PHP, Node.js, Python</li>
-        <li>REST APIs & Backend logic</li>
-      </ul>
-    </td>
-    <!-- Data & Pipelines -->
-    <td width="50%" valign="top">
-      <h3 align="left" style="color:#ffeb3b;">📊 Data & Pipelines</h3>
-      <ul style="color:#cccccc;">
-        <li>Spark, Airflow, dbt, Streaming (Kafka, Pub/Sub)</li>
-        <li>Batch & Event-driven Hybrid Pipelines</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <!-- Cloud & DevOps -->
-    <td width="50%" valign="top">
-      <h3 align="left" style="color:#ffeb3b;">☁️ Cloud & DevOps</h3>
-      <ul style="color:#cccccc;">
-        <li>Google Cloud Platform (GCP), AWS</li>
-        <li>Containerization with Docker, orchestration</li>
-      </ul>
-    </td>
-    <!-- Currently Learning -->
-    <td width="50%" valign="top">
-      <h3 align="left" style="color:#ffeb3b;">📚 Currently Learning</h3>
-      <ul style="color:#cccccc;">
-        <li>Event-driven architectures & streaming data</li>
-        <li>MLOps/DataOps for smarter workflow orchestration</li>
-        <li>Advanced AI/ML techniques</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" style="border-spacing: 20px;">
+    <tr>
+      <!-- Languages & Backend -->
+      <td width="50%" valign="top" align="center">
+        <h3 style="color:#ffeb3b;">💻 Languages & Backend</h3>
+        <ul style="color:#cccccc; text-align: left;">
+          <li>PHP, Node.js, Python</li>
+          <li>REST APIs & Backend logic</li>
+        </ul>
+      </td>
+      <!-- Data & Pipelines -->
+      <td width="50%" valign="top" align="center">
+        <h3 style="color:#ffeb3b;">📊 Data & Pipelines</h3>
+        <ul style="color:#cccccc; text-align: left;">
+          <li>Spark, Airflow, dbt, Streaming (Kafka, Pub/Sub)</li>
+          <li>Batch & Event-driven Hybrid Pipelines</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <!-- Cloud & DevOps -->
+      <td width="50%" valign="top" align="center">
+        <h3 style="color:#ffeb3b;">☁️ Cloud & DevOps</h3>
+        <ul style="color:#cccccc; text-align: left;">
+          <li>Google Cloud Platform (GCP), AWS</li>
+          <li>Containerization with Docker, orchestration</li>
+        </ul>
+      </td>
+      <!-- Currently Learning -->
+      <td width="50%" valign="top" align="center">
+        <h3 style="color:#ffeb3b;">📚 Currently Learning</h3>
+        <ul style="color:#cccccc; text-align: left;">
+          <li>Event-driven architectures & streaming data</li>
+          <li>MLOps/DataOps for smarter workflow orchestration</li>
+          <li>Advanced AI/ML techniques</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ---
