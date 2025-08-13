@@ -1,10 +1,6 @@
 <!-- Banner -->
-<img 
-  src="https://your-cdn.com/arcane-symbols-dark-bg.jpg" 
-  alt="Digital Alchemist Banner" 
-  width="100%" 
-  style="max-height: 100px; object-fit: cover; filter: brightness(60%);" 
-/>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=383087512074516594" height="200" width="100%" style="max-height: 100px; object-fit: cover; filter: brightness(60%);"  frameborder="0" scrolling="no" ></iframe>
+
 <!--Night Owl image-->
 <div>
   <img align="right" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="40%" style="animation: float 4s ease-in-out infinite;" />
