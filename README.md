@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right"  src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="100%" style="max-height: 300px; object-fit: cover;>
+  <img align="right"  src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="40%" >
 </div>
 
 <!--Header Name-->
