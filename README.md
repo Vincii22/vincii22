@@ -4,7 +4,7 @@
   alt="Digital Alchemist Banner" 
   width="100%" 
   height="90px"
-  style="max-height: 90px; object-fit: cover; filter: brightness(60%);" 
+  style="max-height: 250px; object-fit: cover; filter: brightness(60%);" 
 />
 <!--Night Owl image-->
 <div>
