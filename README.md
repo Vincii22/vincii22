@@ -1,19 +1,23 @@
 <!-- Banner -->
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=383087512074516594" height="200" width="100%" style="max-height: 100px; object-fit: cover; filter: brightness(60%);"  frameborder="0" scrolling="no" ></iframe>
-
+<img 
+  src="https://raw.githubusercontent.com/Vincii22/Vincii22/main/banner.jpg" 
+  alt="Digital Alchemist Banner" 
+  width="100%" 
+  style="max-height: 90px; object-fit: cover; filter: brightness(60%);" 
+/>
 <!--Night Owl image-->
 <div>
   <img align="right" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="40%" style="animation: float 4s ease-in-out infinite;" />
 </div>
 
-<!-- Intro with animated neon glow GIF -->
+<!-- Neon Glow Intro -->
 # <img src="https://media.giphy.com/media/3o6ZsY33jhe3JXAAa8/giphy.gif" alt="Glowing Text" width="40" style="vertical-align: middle;" />  
 **Welcome, O Enlightened Fool**  
 🧪 **Digital Alchemist in Training** ⚗️
 
 <p align="center" style="margin: 10px 0;">
-  <img src="https://media.giphy.com/media/26FPnsRwwW6Yct5xe/giphy.gif" alt="Potion Bubble" width="50" style="vertical-align:middle;"/>
-  <img src="https://media.giphy.com/media/X0pY3JsBhXzQX2gs0I/giphy.gif" alt="Glitch Spark" width="50" style="vertical-align:middle;"/>
+  <img src="https://media.giphy.com/media/26FPnsRwwW6Yct5xe/giphy.gif" alt="Potion Bubble" width="50" />
+  <img src="https://media.giphy.com/media/X0pY3JsBhXzQX2gs0I/giphy.gif" alt="Glitch Spark" width="50" />
 </p>
 
 <!--Start Intro-->               
