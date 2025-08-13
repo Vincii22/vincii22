@@ -3,8 +3,8 @@
   src="https://raw.githubusercontent.com/Vincii22/Vincii22/main/banner.jpg" 
   alt="Digital Alchemist Banner" 
   width="100%" 
-  height="250px"
-  style="max-height: 250px; object-fit: cover; filter: brightness(60%);" 
+  height="350px"
+  style="max-height: 350px; object-fit: cover; filter: brightness(60%);" 
 />
 <!--Night Owl image-->
 <div>
