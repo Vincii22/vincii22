@@ -6,23 +6,15 @@
   height="350px"
   style="max-height: 350px; object-fit: cover; filter: brightness(60%);" 
 />
-<!--Night Owl image-->
-<div>
-  <img align="right" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="40%" style="animation: float 4s ease-in-out infinite;" />
-</div>
 
-<!-- Neon Glow Intro -->
+<!-- Neon Glow Welcome -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsY33jhe3JXAAa8/giphy.gif" alt="Glowing Text" width="50" />
+  <img src="https://media1.tenor.com/m/HZmyx-s5Zy8AAAAd/welcome-neon.gif" alt="Welcome Neon" width="80" />
 </p>
 
-<h1 align="center">
-  <strong>Welcome, O Enlightened Fool</strong>
-</h1>
+<h1 align="center"><strong>Welcome, O Enlightened Fool</strong></h1>
+<p align="center">🧪 <strong>Digital Alchemist in Training</strong> ⚗️</p>
 
-<p align="center">
-  🧪 <strong>Digital Alchemist in Training</strong> ⚗️
-</p>
 
 <p align="center" style="margin: 10px 0;">
   <img src="https://media.giphy.com/media/26FPnsRwwW6Yct5xe/giphy.gif" alt="Potion Bubble" width="50" />
@@ -205,32 +197,4 @@ I love puzzles, logic, and transforming bits into meaning.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" alt="Footer waving" />
 </p>
 
-<style>
-  /* Animations */
-  @keyframes float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-  }
 
-  @keyframes pulse {
-    0% { filter: brightness(100%); }
-    50% { filter: brightness(130%) saturate(150%); }
-    100% { filter: brightness(100%); }
-  }
-
-  @keyframes trophy-glow {
-    0% { filter: drop-shadow(0 0 10px #f9a825cc); }
-    100% { filter: drop-shadow(0 0 20px #c56a90cc); }
-  }
-
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-8px); }
-  }
-
-  /* Hover effects for icons */
-  a:hover img {
-    transform: scale(1.2);
-    transition: transform 0.3s ease;
-  }
-</style>
