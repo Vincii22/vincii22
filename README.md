@@ -1,50 +1,65 @@
-# 💾 About Me  
-<img align="right" alt="Data Engineer" width="150" src="https://i.pinimg.com/originals/29/47/43/294743bba60f6bfa78d496cc88cc85d2.gif">
+<!-- Modern, Clean & Developer-to-Data README -->
 
-🔍 Data Engineer | ETL Specialist | Cloud Enthusiast  
-📍 Based in: 🌍 Earth (mostly on cloud ☁️)  
-🎯 Passionate about building scalable data pipelines, optimizing workflows, and making raw data meaningful.  
-🔧 Currently tinkering with: **Apache Spark, Airflow, and dbt**  
-🌱 Learning: **Streaming architectures, DataOps, and advanced orchestration**  
-🤝 Open to collaboration on: Data-driven projects, pipelines, or OSS contributions  
-🎓 Fun fact: I can explain a DAG at 3 AM — but don’t test me 😴
+# 👋 Hello there!
+
+<img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="180" />
+
+I'm **[Your Name]**, a former **Backend Developer** turned **Data Alchemist-in-Training** ⚗️.  
+With a deep love for **logic, puzzles, and clean code**, I’m now channeling that same energy into crafting scalable data systems and engineering powerful data pipelines.
 
 ---
 
-# ⚙️ Tech Stack
+## 🧠 What I’m About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 💻 Still a **developer at heart**, always will be
+- 📊 Exploring the world of **data engineering, analytics, and AI**
+- 🛠️ Tinkering with: **Airflow**, **Spark**, **dbt**, and **Cloud Infra**
+- 📈 Currently learning: **Streaming architectures**, **DataOps**, **MLOps**
+- 🎯 Aspiring to build systems that turn raw data into insight and action
+- 🧩 Fun fact: I treat every bug like a puzzle — annoying, but oddly satisfying
 
 ---
 
-# 📊 GitHub Stats
+## 🧰 Toolbox
 
-![](https://github-readme-stats.vercel.app/api?username=Vincii22&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vincii22&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincii22&theme=tokyonight&hide_border=false&layout=compact)
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
+
+**Data Engineering & Workflow**  
+![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apacheairflow)  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)  
+![dbt](https://img.shields.io/badge/-dbt-333?style=flat&logo=dbt)
+
+**Cloud & DevOps**  
+![GCP](https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud)  
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+
+**Databases & Visualization**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)  
+![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=flat&logo=googlebigquery)  
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 
 ---
 
-# 🛠️ Tools I Use Often  
-| ETL & Orchestration | Cloud & DevOps | Data & Viz |
-|---------------------|----------------|-------------|
-| Airflow, dbt, Spark | GCP, AWS, Docker | BigQuery, Postgres, Tableau |
+## 📈 GitHub Insights
+
+| Stats | Streak | Languages |
+|:--:|:--:|:--:|
+| ![](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&theme=react&show_icons=true&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsernameHere&theme=react&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=react&hide_border=true) |
 
 ---
 
-# 📫 Let's Connect
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://yourportfolio.com)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=YourUsernameHere&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<!-- Designed with ⚙️ logic and ☁️ dreams by ChatGPT & You -->
