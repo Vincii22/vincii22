@@ -41,6 +41,8 @@ I love puzzles, logic, and transforming bits into meaning.
 
 ---
 
+
+
 <!-- Tech Stack & Learning Section -->
 <h2 align="center" style="color:#f9a825;">🛠️ Tech Stack & Current Learning</h2>
 
@@ -54,7 +56,6 @@ I love puzzles, logic, and transforming bits into meaning.
         <li>REST APIs & Backend logic</li>
       </ul>
     </td>
-
     <!-- Data & Pipelines -->
     <td width="50%" valign="top">
       <h3 align="left" style="color:#ffeb3b;">📊 Data & Pipelines</h3>
@@ -73,7 +74,6 @@ I love puzzles, logic, and transforming bits into meaning.
         <li>Containerization with Docker, orchestration</li>
       </ul>
     </td>
-
     <!-- Currently Learning -->
     <td width="50%" valign="top">
       <h3 align="left" style="color:#ffeb3b;">📚 Currently Learning</h3>
