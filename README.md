@@ -8,9 +8,9 @@
 />
 
 <!-- Neon Glow Welcome -->
-<p align="center">
+[<p align="center">
   <img src="https://media1.tenor.com/m/HZmyx-s5Zy8AAAAd/welcome-neon.gif" alt="Welcome Neon" width="80" />
-</p>
+</p>](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVvNnNkcXplb3VyZXZ3cWpkeHdwZDYxa3hla2VuanA3OTVkbnk3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oz5oYtQR0SFOg/giphy.gif)
 
 <h1 align="center"><strong>Welcome, O Enlightened Fool</strong></h1>
 <p align="center">🧪 <strong>Digital Alchemist in Training</strong> ⚗️</p>
