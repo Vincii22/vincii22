@@ -1,6 +1,7 @@
 <!--Banner-->
-![Digital Alchemist Banner](https://c4.wallpaperflare.com/wallpaper/1019/578/562/alchemy-wallpaper-preview.jpg)
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1920&q=80" alt="Banner" width="100%" style="max-height: 300px; object-fit: cover;"/>
+</p>
 <!--Night Owl image-->
 <div>
   <img align="right"  src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="40%" >
