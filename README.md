@@ -12,14 +12,23 @@
 </div>
 
 <!-- Neon Glow Intro -->
-# <img src="https://media.giphy.com/media/3o6ZsY33jhe3JXAAa8/giphy.gif" alt="Glowing Text" width="40" style="vertical-align: middle;" />  
-**Welcome, O Enlightened Fool**  
-🧪 **Digital Alchemist in Training** ⚗️
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsY33jhe3JXAAa8/giphy.gif" alt="Glowing Text" width="50" />
+</p>
+
+<h1 align="center">
+  <strong>Welcome, O Enlightened Fool</strong>
+</h1>
+
+<p align="center">
+  🧪 <strong>Digital Alchemist in Training</strong> ⚗️
+</p>
 
 <p align="center" style="margin: 10px 0;">
   <img src="https://media.giphy.com/media/26FPnsRwwW6Yct5xe/giphy.gif" alt="Potion Bubble" width="50" />
   <img src="https://media.giphy.com/media/X0pY3JsBhXzQX2gs0I/giphy.gif" alt="Glitch Spark" width="50" />
 </p>
+
 
 <!--Start Intro-->               
 <p align="left" style="color:#ccc; font-size: 1.1rem; max-width: 700px; line-height: 1.6;">
