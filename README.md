@@ -1,16 +1,24 @@
-<!--Banner-->
-<img src="https://c4.wallpaperflare.com/wallpaper/1019/578/562/alchemy-wallpaper-preview.jpg" alt="Digital Alchemist Banner" width="100%" style="max-height: 50px; object-fit: cover;" />
-
+<!-- Banner -->
+<img 
+  src="https://your-cdn.com/arcane-symbols-dark-bg.jpg" 
+  alt="Digital Alchemist Banner" 
+  width="100%" 
+  style="max-height: 100px; object-fit: cover; filter: brightness(60%);" 
+/>
 <!--Night Owl image-->
 <div>
   <img align="right" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Image" width="40%" style="animation: float 4s ease-in-out infinite;" />
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="vertical-align: middle; animation: pulse 2s infinite alternate;" /> Welcome, O Enlightened Fool
-*🧪 Digital Alchemist in Training ⚗️*
+<!-- Intro with animated neon glow GIF -->
+# <img src="https://media.giphy.com/media/3o6ZsY33jhe3JXAAa8/giphy.gif" alt="Glowing Text" width="40" style="vertical-align: middle;" />  
+**Welcome, O Enlightened Fool**  
+🧪 **Digital Alchemist in Training** ⚗️
 
-<br />
+<p align="center" style="margin: 10px 0;">
+  <img src="https://media.giphy.com/media/26FPnsRwwW6Yct5xe/giphy.gif" alt="Potion Bubble" width="50" style="vertical-align:middle;"/>
+  <img src="https://media.giphy.com/media/X0pY3JsBhXzQX2gs0I/giphy.gif" alt="Glitch Spark" width="50" style="vertical-align:middle;"/>
+</p>
 
 <!--Start Intro-->               
 <p align="left" style="color:#ccc; font-size: 1.1rem; max-width: 700px; line-height: 1.6;">
