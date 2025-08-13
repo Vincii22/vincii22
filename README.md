@@ -1,65 +1,54 @@
-<!-- Modern, Clean & Developer-to-Data README -->
+<!-- README: Developer-to-Data Engineer | Digital Alchemist Theme -->
 
-# 👋 Hello there!
+<p align="center">
+  <!-- 🌌 Replace with your custom banner once ready -->
+  <img src="https://via.placeholder.com/1024x300/121212/FFFFFF?text=Digital+Alchemist+%7C+Code+%2B+Data+%2B+Magic" alt="Digital Alchemist Banner" />
+</p>
 
-<img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="180" />
-
-I'm **[Your Name]**, a former **Backend Developer** turned **Data Alchemist-in-Training** ⚗️.  
-With a deep love for **logic, puzzles, and clean code**, I’m now channeling that same energy into crafting scalable data systems and engineering powerful data pipelines.
-
----
-
-## 🧠 What I’m About
-
-- 💻 Still a **developer at heart**, always will be
-- 📊 Exploring the world of **data engineering, analytics, and AI**
-- 🛠️ Tinkering with: **Airflow**, **Spark**, **dbt**, and **Cloud Infra**
-- 📈 Currently learning: **Streaming architectures**, **DataOps**, **MLOps**
-- 🎯 Aspiring to build systems that turn raw data into insight and action
-- 🧩 Fun fact: I treat every bug like a puzzle — annoying, but oddly satisfying
+<h1 align="center">🧪 Digital Alchemist in Training ⚗️</h1>
+<p align="center">
+  Former Backend Developer → Aspiring Data Engineer  
+  Turning raw data into powerful insights and elegant systems
+</p>
 
 ---
 
-## 🧰 Toolbox
+## 🧠 About Me
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=nodedotjs)
 
-**Data Engineering & Workflow**  
-![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apacheairflow)  
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)  
-![dbt](https://img.shields.io/badge/-dbt-333?style=flat&logo=dbt)
+🧩 Background:    Backend Dev (PHP, Node.js) who loves puzzles and logic
+📊 Current Path:   Data Engineering, AI/ML, Data Science
+⚗️ Identity:       Digital Alchemist — transforming bits into meaning
+📚 Learning:       Spark, dbt, Airflow, GCP, Streaming Data
+🧰 Tools:          Building modular pipelines, scalable workflows
+⚙️ Tech Stack
+💻 Languages & Backend
 
-**Cloud & DevOps**  
-![GCP](https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud)  
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 
-**Databases & Visualization**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)  
-![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=flat&logo=googlebigquery)  
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 
----
+🧪 Data & Pipelines
 
-## 📈 GitHub Insights
 
-| Stats | Streak | Languages |
-|:--:|:--:|:--:|
-| ![](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&theme=react&show_icons=true&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=YourUsernameHere&theme=react&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=react&hide_border=true) |
 
----
 
-## 🌐 Connect with Me
+☁️ Cloud & DevOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://yourportfolio.com)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=YourUsernameHere&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Designed with ⚙️ logic and ☁️ dreams by ChatGPT & You -->
+📊 GitHub Stats (Dark Neon)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsernameHere&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+📈 GitHub Activity Graph
+
+🧬 Currently Learning
+🌪️ Event-driven architectures (Kafka, Pub/Sub)
+
+🔁 Streaming & batch hybrid pipelines
+
+☁️ GCP + AWS for data engineering
+
+🔍 MLOps/DataOps for smarter workflow orchestration
+
+🌐 Let's Connect
+<p align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" /> </a> <a href="mailto:your@email.com"> <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /> </a> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=YourUsernameHere&icon=6&color=12" /> </p> <!-- Crafted with ⚙️ code, ⚗️ alchemy, and ☁️ cloud magic -->
