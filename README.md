@@ -136,11 +136,11 @@ I love puzzles, logic, and transforming bits into meaning.
         </a>
       </p>
     </td>
-    <td width="50%" style="padding: 10px;">
-      <h3 align="center" style="color:#ffeb3b;"><strong>Latest Project</strong></h3>
+   <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Vincii22/speak" target="_blank" rel="noopener">
-          <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vincii22&repo=speak&theme=nightowl" alt="Latest Project" style="border-radius: 12px; box-shadow: 0 0 12px #c56a90cc;" />
+        <a href="https://github.com/Vincii22">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Vincii22&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
