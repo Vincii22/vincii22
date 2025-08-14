@@ -12,7 +12,7 @@
 <!-- Neon Glow Welcome -->
 
 <h1 align="center"><strong>Welcome, Enlightened Fool</strong></h1>
-<p align="center">🧪 <strong>Digital Alchemist in Training</strong> ⚗️</p>
+<p align="center">🧪 <strong>Data Alchemist in Training</strong> ⚗️</p>
 
 
 <p align="center" style="margin: 10px 0;">
