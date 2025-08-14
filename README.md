@@ -11,7 +11,7 @@
 
 <!-- Neon Glow Welcome -->
 
-<h1 align="center"><strong>Welcome, O Enlightened Fool</strong></h1>
+<h1 align="center"><strong>Welcome, Enlightened Fool</strong></h1>
 <p align="center">🧪 <strong>Digital Alchemist in Training</strong> ⚗️</p>
 
 
