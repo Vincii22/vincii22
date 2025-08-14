@@ -139,7 +139,7 @@ I love puzzles, logic, and transforming bits into meaning.
     <td width="50%" style="padding: 10px;">
       <h3 align="center" style="color:#ffeb3b;"><strong>Latest Project</strong></h3>
       <p align="center">
-        <a href="https://github.com/Vincii22/your-latest-project" target="_blank" rel="noopener">
+        <a href="https://github.com/Vincii22/speak" target="_blank" rel="noopener">
           <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Vincii22&repo=your-latest-project&theme=nightowl" alt="Latest Project" style="border-radius: 12px; box-shadow: 0 0 12px #c56a90cc;" />
         </a>
       </p>
