@@ -34,10 +34,6 @@ I love puzzles, logic, and transforming bits into meaning.
   <li>⚙️ Building modular, scalable data pipelines and workflows</li>
 </ul>
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Vincii22&label=Profile%20views&color=4c1&style=for-the-badge&logo=github" alt="Profile Views" />
-</p>
 
 ---
 
